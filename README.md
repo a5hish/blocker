@@ -12,7 +12,7 @@ A C-based tool which enable's you to block Website's and Application's on your l
 | -unblock | Unblock's the urls/application specified in the configuration file |
 | -edit | open's the configuration file to edit in an editor |
 
->Note : the tools should be used with root privilege as it manipulate's the /etc/hosts file.
+>Note : the tool should be used with root privilege as it manipulate's the /etc/hosts file.
 
 #### About configuration file
 The url's of websites and path's to the application binary should be specified in the configuration. file .
