@@ -2,7 +2,7 @@
 #
 # Author      : undefined
 # Version     : 1.0
-# Description : make file for (blocker)
+# Description : Makefile for (blocker)
 #
 ###############
 
