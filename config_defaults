@@ -1,0 +1,21 @@
+#
+# This is the configuration file for this tool(blocker).
+# 
+# This file is used to specify the (urls) and (paths) to the 
+# websits and applications to block. 
+#
+# The file is devided in to two parts [URLS] and the [PATHS] part
+# [URLS] : you should insert  your urls in here to block.
+# [PATHS]: you should insert your paths in here to block.
+#  make sure no unnecessary tailing or leading spaces in the urls/paths
+# make sure its a single lile with only (url|paths) in it.
+
+[URLS]
+# enter your urls below this comments. 
+# (eg: www.example.com)
+
+[PATHS]
+# enter path to the BINARY of the application to block below this comments.
+# (eg: /home/application/app)
+
+
