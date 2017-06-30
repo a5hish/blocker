@@ -1,19 +1,6 @@
 # blocker
 A C-based tool which enable's you to block Website's and Application's on your linux based operating system.
-### Installation (using make)
 
-| make Options | Description |
-| ------------ | ----------- |
-| make | compile and build the tool.|
-| make clean |  removes the object file's created during make |
-| make install | install's the tool [i.e: it create's a directory for it and put's the object file for the 'blocker' in it and also create the default configuration file (.blockrc) for the tool]|
-| make uninstall |removes the directory created during 'make install' [if in the same folder.]|
-#### How to compile and install
-```sh
-$ cd blocker
-$ make 
-$ make install
-```
 
 ## Description
 ***blocker*** block's website's and application's which are black-listed/specified in the configuration file(.blockrc)
